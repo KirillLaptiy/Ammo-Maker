@@ -1,0 +1,7 @@
+Moveables_RU = {
+
+
+	Bird_Feeder = "Кормушка для птиц"
+
+
+}

@@ -1,0 +1,7 @@
+Tooltip_EN = 
+{
+
+	Tooltip_Bird_Feeder_Name = "Bird Feeder"
+	Tooltip_Bird_Feeder_Description = "Turns seeds into bird excrement over time. The stationary alternative to foraging."
+
+}

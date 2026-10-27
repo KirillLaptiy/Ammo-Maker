@@ -1,0 +1,5 @@
+IGUI_EN = {
+
+	IGUI_ContainerTitle_ammomaker_BirdFeeder = "Bird Feeder"
+
+}

@@ -1,0 +1,7 @@
+Moveables_EN = {
+
+
+	Bird_Feeder = "Bird Feeder"
+
+
+}

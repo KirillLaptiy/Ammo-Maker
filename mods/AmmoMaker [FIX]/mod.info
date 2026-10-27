@@ -1,0 +1,5 @@
+name=Ammo Maker [FIX]
+id=AmmoMaker [FIX]
+poster=poster.png
+description=Fixing Bird Feeder craft
+require=ammomaker

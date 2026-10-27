@@ -1,0 +1,5 @@
+IGUI_RU = {
+
+	IGUI_ContainerTitle_ammomaker_BirdFeeder = "Кормушка для птиц"
+
+}
